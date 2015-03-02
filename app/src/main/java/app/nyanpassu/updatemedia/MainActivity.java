@@ -12,6 +12,7 @@ import android.widget.EditText;
 import java.io.File;
 import java.io.IOException;
 
+import app.nyanpassu.updatemedia.R;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 
